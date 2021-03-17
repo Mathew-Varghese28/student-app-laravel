@@ -38,47 +38,52 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+          <a class="nav-link " href="#" tabindex="-1" aria-disabled="true">Disabled</a>
         </li>
       </ul>
       
     </div>
   </div>
 </nav>
-
-
 <div class="container">
     <center>
     <div class="row">
-
-
     <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
-
     </div>
         
         <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
             <h1>
-                Registeration
+                Faculty Registeration
             </h1>
             <table class="table table-borderless">
                 <tr>
-                    <td>Name</td>
-                    <td><input type="text" class="form-control"></td>
+                    <td>Faculty Name</td>
+                    <td><textarea name="faculty Name" class="form-control" id="" cols="30" rows="5"></textarea></td>
                 </tr>
                 <br>
                 <tr>
-                    <td>Roll No</td>
-                    <td><input type="text" class="form-control"></td>
+                    <td>department</td>
+                    <td><textarea name="Department" class="form-control" id="" cols="30" rows="5"></textarea></td>
                 </tr>
                 <br>
                 <tr>
-                    <td>Admission</td>
-                    <td><input type="text" class="form-control"></td>
+                    <td>Address</td>
+                    <td><textarea name="Address" class="form-control" id="" cols="30" rows="5"></textarea></td>
+                </tr>
+                <br>
+                <tr>
+                    <td>Phone No</td>
+                    <td><textarea name="Phone Number" class="form-control"  id="" cols="30" rows="5"></textarea></td>
+                </tr>
+                <br>
+                <tr>
+                    <td>Educational Qualification</td>
+                    <td><textarea name="Educational Qualification" class="form-control id="" cols="30" rows="5"></textarea></td>
                 </tr>
                 <br>
                 <tr>
                     <td>College</td>
-                    <td><input type="text" class="form-control"></td>
+                    <td><textarea name="College" class="form-control" id="" cols="30" rows="5"></textarea></td>
                 </tr>
                 <br>
                 <tr>

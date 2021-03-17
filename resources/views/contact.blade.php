@@ -38,7 +38,7 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+          <a class="nav-link " href="#" tabindex="-1" aria-disabled="true">Disabled</a>
         </li>
       </ul>
       
@@ -58,7 +58,7 @@
         
         <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
             <h1>
-                Registeration
+                Contact
             </h1>
             <table class="table table-borderless">
                 <tr>
@@ -67,17 +67,12 @@
                 </tr>
                 <br>
                 <tr>
-                    <td>Roll No</td>
+                    <td>Message</td>
                     <td><input type="text" class="form-control"></td>
                 </tr>
                 <br>
                 <tr>
-                    <td>Admission</td>
-                    <td><input type="text" class="form-control"></td>
-                </tr>
-                <br>
-                <tr>
-                    <td>College</td>
+                    <td>Phone No</td>
                     <td><input type="text" class="form-control"></td>
                 </tr>
                 <br>
@@ -92,7 +87,6 @@
         </div>
     </div></center>
     </div>
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 </body>
 </html>
